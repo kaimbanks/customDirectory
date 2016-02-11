@@ -92,8 +92,8 @@ tr{
   text-align: left;
   vertical-align: top;
 }
-td{
-  padding: 1em;
+th, td{
+  padding: 15px;
 }
 
 table tr th {
