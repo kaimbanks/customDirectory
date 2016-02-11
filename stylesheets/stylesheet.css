@@ -84,14 +84,13 @@ footer {
 table {
     width: 100%;
     table-layout: auto;
-
+    padding: 1em;
 }
 
 tr{
   border: 1px solid black;
   text-align: left;
   vertical-align: top;
-  padding: 1em;
 }
 
 table tr th {
