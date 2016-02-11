@@ -87,6 +87,10 @@ table {
 
 }
 
+tr{
+  border: 1px solid black;
+}
+
 table tr th {
   border-bottom: 1px solid #999;
   padding-top: 1em;
